@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 15
-  productGUID: 6da298fd46e149d45a09f6e071710c00
+  productGUID: 4b79048d67aa8654196346e744b64eb9
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -648,8 +648,8 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: cdba1c5b-98a9-4af1-96e3-4b4b18d3a4b6
-  projectName: Final Project
+  cloudProjectId: 8cec5c04-6a41-475c-925e-c861a60c3a5a
+  projectName: Final Project (1)
   organizationId: gpolking
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
